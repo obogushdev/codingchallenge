@@ -29,7 +29,7 @@ $ npm run start:debug
 | ------ | --------------- | ----------------------------- |
 | `POST` | `/appointments` | single appointment processing |
 
-Swagger path (default): http://localhost:3000/api-docs/
+Swagger path (default): http://localhost:3000/api-docs/ \
 Postman collection path: coding_challenge.postman_collection.json
 
 ## Tests
